@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  PeripheralManagerViewController.h
 //  CoreBluetooth
 //
 //  Created by wirawan sanusi on 5/29/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface PeripheralManagerViewController : UIViewController
 
 @end
-
